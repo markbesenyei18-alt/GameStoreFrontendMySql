@@ -150,3 +150,34 @@ C:\Users\gjozsef.SZIKSZI\Gamestore Complete MySql\GameStore.Frontend\obj\Debug\n
 C:\Users\gjozsef.SZIKSZI\Gamestore Complete MySql\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.pdb
 C:\Users\gjozsef.SZIKSZI\Gamestore Complete MySql\GameStore.Frontend\obj\Debug\net8.0\GameStore.Frontend.genruntimeconfig.cache
 C:\Users\gjozsef.SZIKSZI\Gamestore Complete MySql\GameStore.Frontend\obj\Debug\net8.0\ref\GameStore.Frontend.dll
+C:\Users\jozse\GameStoreFrontendMySql\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jozse\GameStoreFrontendMySql\bin\Debug\net8.0\appsettings.json
+C:\Users\jozse\GameStoreFrontendMySql\bin\Debug\net8.0\GameStore.Frontend.staticwebassets.runtime.json
+C:\Users\jozse\GameStoreFrontendMySql\bin\Debug\net8.0\GameStore.Frontend.staticwebassets.endpoints.json
+C:\Users\jozse\GameStoreFrontendMySql\bin\Debug\net8.0\GameStore.Frontend.exe
+C:\Users\jozse\GameStoreFrontendMySql\bin\Debug\net8.0\GameStore.Frontend.deps.json
+C:\Users\jozse\GameStoreFrontendMySql\bin\Debug\net8.0\GameStore.Frontend.runtimeconfig.json
+C:\Users\jozse\GameStoreFrontendMySql\bin\Debug\net8.0\GameStore.Frontend.dll
+C:\Users\jozse\GameStoreFrontendMySql\bin\Debug\net8.0\GameStore.Frontend.pdb
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\GameStore.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\GameStore.Frontend.AssemblyInfoInputs.cache
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\GameStore.Frontend.AssemblyInfo.cs
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\GameStore.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\GameStore.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\GameStore.Frontend.sourcelink.json
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\scopedcss\bundle\GameStore.Frontend.styles.css
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\scopedcss\projectbundle\GameStore.Frontend.bundle.scp.css
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\GameStore.Frontend.dll
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\refint\GameStore.Frontend.dll
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\GameStore.Frontend.pdb
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\GameStore.Frontend.genruntimeconfig.cache
+C:\Users\jozse\GameStoreFrontendMySql\obj\Debug\net8.0\ref\GameStore.Frontend.dll

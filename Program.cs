@@ -14,7 +14,13 @@ builder.Services.AddHttpClient<GamesClient>(
     client => client.BaseAddress = new Uri(gameStoreApiUrl));
 
 builder.Services.AddHttpClient<GenresClient>(
-    client => client.BaseAddress = new Uri(gameStoreApiUrl));    
+    client => client.BaseAddress = new Uri(gameStoreApiUrl)); 
+
+builder.Services.AddHttpClient<CustomersClient>(
+    client => client.BaseAddress = new Uri(gameStoreApiUrl));
+    
+builder.Services.AddHttpClient<OrdersClient>(
+    client => client.BaseAddress = new Uri(gameStoreApiUrl));   
 
 var app = builder.Build();
 
