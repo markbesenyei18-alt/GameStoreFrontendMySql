@@ -1,81 +1,65 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GameStore.Frontend
 build_property.RootNamespace = GameStore.Frontend
-build_property.ProjectDir = C:\Users\jozse\GameStoreFrontendMySql\
+build_property.ProjectDir = Z:\GameStoreFrontendMySql\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jozse\GameStoreFrontendMySql
+build_property.MSBuildProjectDirectory = Z:\GameStoreFrontendMySql
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/jozse/GameStoreFrontendMySql/Components/App.razor]
+[Z:/GameStoreFrontendMySql/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Layout/NavMenu.razor]
+[Z:/GameStoreFrontendMySql/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Pages/Customer.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDdXN0b21lci5yYXpvcg==
+[Z:/GameStoreFrontendMySql/Components/Pages/EditFilmek.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFZGl0RmlsbWVrLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Pages/DeleteCustomer.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZWxldGVDdXN0b21lci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Pages/DeleteGame.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZWxldGVHYW1lLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Pages/DeleteOrder.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZWxldGVPcmRlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Pages/EditCustomer.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFZGl0Q3VzdG9tZXIucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Pages/EditGame.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFZGl0R2FtZS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Pages/EditOrders.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFZGl0T3JkZXJzLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Pages/Error.razor]
+[Z:/GameStoreFrontendMySql/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Pages/Game.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHYW1lLnJhem9y
+[Z:/GameStoreFrontendMySql/Components/Pages/Filmek.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGaWxtZWsucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Pages/Order.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPcmRlci5yYXpvcg==
+[Z:/GameStoreFrontendMySql/Components/Pages/Szineszek.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTemluZXN6ZWsucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Routes.razor]
+[Z:/GameStoreFrontendMySql/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jozse/GameStoreFrontendMySql/Components/_Imports.razor]
+[Z:/GameStoreFrontendMySql/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jozse/GameStoreFrontendMySql/Components/Layout/MainLayout.razor]
+[Z:/GameStoreFrontendMySql/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-7r57v3frez

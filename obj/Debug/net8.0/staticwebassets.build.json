@@ -1,1 +1,331 @@
-{"Version":1,"Hash":"Yb/CLB8nq1uVg3JtVLIZT6qqJi+vTz5to6eCghMYY10=","Source":"GameStore.Frontend","BasePath":"_content/GameStore.Frontend","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[{"Name":"GameStore.Frontend\\wwwroot","Source":"GameStore.Frontend","ContentRoot":"C:\\Users\\jozse\\GameStoreFrontendMySql\\wwwroot\\","BasePath":"_content/GameStore.Frontend","Pattern":"**"}],"Assets":[{"Identity":"C:\\Users\\jozse\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css","SourceId":"GameStore.Frontend","SourceType":"Computed","ContentRoot":"C:\\Users\\jozse\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\","BasePath":"_content/GameStore.Frontend","RelativePath":"GameStore.Frontend#[.{fingerprint}]?.styles.css","AssetKind":"All","AssetMode":"CurrentProject","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"ScopedCss","AssetTraitValue":"ApplicationBundle","Fingerprint":"uyhppeet3o","Integrity":"ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\jozse\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css","FileLength":509,"LastWriteTime":"2026-03-29T20:06:25+00:00"},{"Identity":"C:\\Users\\jozse\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css","SourceId":"GameStore.Frontend","SourceType":"Computed","ContentRoot":"C:\\Users\\jozse\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\","BasePath":"_content/GameStore.Frontend","RelativePath":"GameStore.Frontend#[.{fingerprint}]!.bundle.scp.css","AssetKind":"All","AssetMode":"Reference","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"ScopedCss","AssetTraitValue":"ProjectBundle","Fingerprint":"uyhppeet3o","Integrity":"ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"C:\\Users\\jozse\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css","FileLength":509,"LastWriteTime":"2026-03-29T20:06:25+00:00"},{"Identity":"C:\\Users\\jozse\\GameStoreFrontendMySql\\wwwroot\\app.css","SourceId":"GameStore.Frontend","SourceType":"Discovered","ContentRoot":"C:\\Users\\jozse\\GameStoreFrontendMySql\\wwwroot\\","BasePath":"_content/GameStore.Frontend","RelativePath":"app#[.{fingerprint}]?.css","AssetKind":"All","AssetMode":"All","AssetRole":"Primary","AssetMergeBehavior":"","AssetMergeSource":"","RelatedAsset":"","AssetTraitName":"","AssetTraitValue":"","Fingerprint":"9tsjre4pz5","Integrity":"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=","CopyToOutputDirectory":"Never","CopyToPublishDirectory":"PreserveNewest","OriginalItemSpec":"wwwroot\\app.css","FileLength":2154,"LastWriteTime":"2026-03-29T11:32:24+00:00"}],"Endpoints":[{"Route":"app.9tsjre4pz5.css","AssetFile":"C:\\Users\\jozse\\GameStoreFrontendMySql\\wwwroot\\app.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2154"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""},{"Name":"Last-Modified","Value":"Sun, 29 Mar 2026 11:32:24 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"9tsjre4pz5"},{"Name":"label","Value":"app.css"},{"Name":"integrity","Value":"sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="}]},{"Route":"app.css","AssetFile":"C:\\Users\\jozse\\GameStoreFrontendMySql\\wwwroot\\app.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"2154"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""},{"Name":"Last-Modified","Value":"Sun, 29 Mar 2026 11:32:24 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="}]},{"Route":"GameStore.Frontend.bundle.scp.css","AssetFile":"C:\\Users\\jozse\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"509"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=\""},{"Name":"Last-Modified","Value":"Sun, 29 Mar 2026 20:06:25 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM="}]},{"Route":"GameStore.Frontend.styles.css","AssetFile":"C:\\Users\\jozse\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"509"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=\""},{"Name":"Last-Modified","Value":"Sun, 29 Mar 2026 20:06:25 GMT"},{"Name":"Cache-Control","Value":"no-cache"}],"EndpointProperties":[{"Name":"integrity","Value":"sha256-ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM="}]},{"Route":"GameStore.Frontend.uyhppeet3o.bundle.scp.css","AssetFile":"C:\\Users\\jozse\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"509"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=\""},{"Name":"Last-Modified","Value":"Sun, 29 Mar 2026 20:06:25 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"uyhppeet3o"},{"Name":"label","Value":"GameStore.Frontend.bundle.scp.css"},{"Name":"integrity","Value":"sha256-ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM="}]},{"Route":"GameStore.Frontend.uyhppeet3o.styles.css","AssetFile":"C:\\Users\\jozse\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css","Selectors":[],"ResponseHeaders":[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Content-Length","Value":"509"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\"ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=\""},{"Name":"Last-Modified","Value":"Sun, 29 Mar 2026 20:06:25 GMT"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"}],"EndpointProperties":[{"Name":"fingerprint","Value":"uyhppeet3o"},{"Name":"label","Value":"GameStore.Frontend.styles.css"},{"Name":"integrity","Value":"sha256-ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM="}]}]}
+{
+  "Version": 1,
+  "Hash": "P6xNlEy9zETMbnO8k1WiPgP3lFfKIx66g498K8Fe5ME=",
+  "Source": "GameStore.Frontend",
+  "BasePath": "_content/GameStore.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GameStore.Frontend\\wwwroot",
+      "Source": "GameStore.Frontend",
+      "ContentRoot": "Z:\\GameStoreFrontendMySql\\wwwroot\\",
+      "BasePath": "_content/GameStore.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "GameStore.Frontend#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "uyhppeet3o",
+      "Integrity": "ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css"
+    },
+    {
+      "Identity": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "GameStore.Frontend#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "uyhppeet3o",
+      "Integrity": "ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "Z:\\GameStoreFrontendMySql\\wwwroot\\app.css",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\GameStoreFrontendMySql\\wwwroot\\",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9tsjre4pz5",
+      "Integrity": "Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.9tsjre4pz5.css",
+      "AssetFile": "Z:\\GameStoreFrontendMySql\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Mar 2026 05:56:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9tsjre4pz5"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "Z:\\GameStoreFrontendMySql\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Mar 2026 05:56:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.bundle.scp.css",
+      "AssetFile": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Mar 2026 11:13:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.styles.css",
+      "AssetFile": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Mar 2026 11:13:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.uyhppeet3o.bundle.scp.css",
+      "AssetFile": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Mar 2026 11:13:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uyhppeet3o"
+        },
+        {
+          "Name": "label",
+          "Value": "GameStore.Frontend.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.uyhppeet3o.styles.css",
+      "AssetFile": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 31 Mar 2026 11:13:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uyhppeet3o"
+        },
+        {
+          "Name": "label",
+          "Value": "GameStore.Frontend.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM="
+        }
+      ]
+    }
+  ]
+}

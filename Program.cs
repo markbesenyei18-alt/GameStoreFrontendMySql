@@ -1,5 +1,5 @@
 using GameStore.Frontend.Clients;
-using GameStore.Frontend.Components;
+using GameStore.Frontend.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,17 +23,8 @@ builder.Services.AddServerSideBlazor(options =>
 var gameStoreApiUrl = builder.Configuration["GameStoreApiUrl"] ?? 
     throw new Exception("GameStoreApiUrl is not set");
 
-builder.Services.AddHttpClient<GamesClient>(
-    client => client.BaseAddress = new Uri(gameStoreApiUrl));
-
-builder.Services.AddHttpClient<GenresClient>(
+builder.Services.AddHttpClient<FilmekClient>(
     client => client.BaseAddress = new Uri(gameStoreApiUrl)); 
-
-builder.Services.AddHttpClient<CustomersClient>(
-    client => client.BaseAddress = new Uri(gameStoreApiUrl));
-    
-builder.Services.AddHttpClient<OrdersClient>(
-    client => client.BaseAddress = new Uri(gameStoreApiUrl));   
 
 var app = builder.Build();
 
@@ -48,7 +39,7 @@ if (!app.Environment.IsDevelopment())
 app.UseStaticFiles();
 app.UseAntiforgery();
 
-app.MapRazorComponents<App>()
-   .AddInteractiveServerRenderMode();
+//app.MapRazorComponents<App>()
+//   .AddInteractiveServerRenderMode();
 
 app.Run();
