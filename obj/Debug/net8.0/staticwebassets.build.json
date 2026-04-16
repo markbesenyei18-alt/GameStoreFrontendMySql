@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "P6xNlEy9zETMbnO8k1WiPgP3lFfKIx66g498K8Fe5ME=",
+  "Hash": "GLTsg3iXiY1aRy2MWbHv3TCBwcALIUwYH6BEGtCEsho=",
   "Source": "GameStore.Frontend",
   "BasePath": "_content/GameStore.Frontend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GameStore.Frontend\\wwwroot",
       "Source": "GameStore.Frontend",
-      "ContentRoot": "Z:\\GameStoreFrontendMySql\\wwwroot\\",
+      "ContentRoot": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\wwwroot\\",
       "BasePath": "_content/GameStore.Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
+      "Identity": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
       "SourceId": "GameStore.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/GameStore.Frontend",
       "RelativePath": "GameStore.Frontend#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css"
+      "OriginalItemSpec": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css"
     },
     {
-      "Identity": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
+      "Identity": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
       "SourceId": "GameStore.Frontend",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/GameStore.Frontend",
       "RelativePath": "GameStore.Frontend#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "ygfFwv0YkvWq1keHadYQSfjfvuaQQSs7lFObWKCYuUM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css"
+      "OriginalItemSpec": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css"
     },
     {
-      "Identity": "Z:\\GameStoreFrontendMySql\\wwwroot\\app.css",
+      "Identity": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\wwwroot\\app.css",
       "SourceId": "GameStore.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\GameStoreFrontendMySql\\wwwroot\\",
+      "ContentRoot": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\wwwroot\\",
       "BasePath": "_content/GameStore.Frontend",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -73,62 +73,38 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "9tsjre4pz5",
-      "Integrity": "Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=",
+      "Fingerprint": "h4q6j7ykoa",
+      "Integrity": "wVjDH4TmGjQ8xKko+uY+5csUCVmV6nlCF8KlwTbyO1A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\wwwroot\\d.jpg",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\wwwroot\\",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wn65donu6m",
+      "Integrity": "/C1UZOck6Q5mtZ9S84FzvpYu6yMrVyjqfej6ricgN/M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\d.jpg"
     }
   ],
   "Endpoints": [
     {
-      "Route": "app.9tsjre4pz5.css",
-      "AssetFile": "Z:\\GameStoreFrontendMySql\\wwwroot\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2154"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 30 Mar 2026 05:56:50 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9tsjre4pz5"
-        },
-        {
-          "Name": "label",
-          "Value": "app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="
-        }
-      ]
-    },
-    {
       "Route": "app.css",
-      "AssetFile": "Z:\\GameStoreFrontendMySql\\wwwroot\\app.css",
+      "AssetFile": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -137,7 +113,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2154"
+          "Value": "2299"
         },
         {
           "Name": "Content-Type",
@@ -145,11 +121,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""
+          "Value": "\"wVjDH4TmGjQ8xKko+uY+5csUCVmV6nlCF8KlwTbyO1A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 30 Mar 2026 05:56:50 GMT"
+          "Value": "Thu, 16 Apr 2026 07:27:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -159,13 +135,140 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="
+          "Value": "sha256-wVjDH4TmGjQ8xKko+uY+5csUCVmV6nlCF8KlwTbyO1A="
+        }
+      ]
+    },
+    {
+      "Route": "app.h4q6j7ykoa.css",
+      "AssetFile": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2299"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wVjDH4TmGjQ8xKko+uY+5csUCVmV6nlCF8KlwTbyO1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Apr 2026 07:27:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h4q6j7ykoa"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wVjDH4TmGjQ8xKko+uY+5csUCVmV6nlCF8KlwTbyO1A="
+        }
+      ]
+    },
+    {
+      "Route": "d.jpg",
+      "AssetFile": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\wwwroot\\d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/C1UZOck6Q5mtZ9S84FzvpYu6yMrVyjqfej6ricgN/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Apr 2026 09:34:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/C1UZOck6Q5mtZ9S84FzvpYu6yMrVyjqfej6ricgN/M="
+        }
+      ]
+    },
+    {
+      "Route": "d.wn65donu6m.jpg",
+      "AssetFile": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\wwwroot\\d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/C1UZOck6Q5mtZ9S84FzvpYu6yMrVyjqfej6ricgN/M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 16 Apr 2026 09:34:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wn65donu6m"
+        },
+        {
+          "Name": "label",
+          "Value": "d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/C1UZOck6Q5mtZ9S84FzvpYu6yMrVyjqfej6ricgN/M="
         }
       ]
     },
     {
       "Route": "GameStore.Frontend.bundle.scp.css",
-      "AssetFile": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
+      "AssetFile": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -186,7 +289,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 31 Mar 2026 11:13:12 GMT"
+          "Value": "Tue, 14 Apr 2026 12:11:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -202,7 +305,7 @@
     },
     {
       "Route": "GameStore.Frontend.styles.css",
-      "AssetFile": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
+      "AssetFile": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -223,7 +326,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 31 Mar 2026 11:13:12 GMT"
+          "Value": "Thu, 16 Apr 2026 07:09:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -239,7 +342,7 @@
     },
     {
       "Route": "GameStore.Frontend.uyhppeet3o.bundle.scp.css",
-      "AssetFile": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
+      "AssetFile": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -260,7 +363,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 31 Mar 2026 11:13:12 GMT"
+          "Value": "Tue, 14 Apr 2026 12:11:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -284,7 +387,7 @@
     },
     {
       "Route": "GameStore.Frontend.uyhppeet3o.styles.css",
-      "AssetFile": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
+      "AssetFile": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -305,7 +408,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 31 Mar 2026 11:13:12 GMT"
+          "Value": "Thu, 16 Apr 2026 07:09:12 GMT"
         },
         {
           "Name": "Cache-Control",

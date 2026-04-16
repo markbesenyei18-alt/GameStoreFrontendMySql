@@ -1,20 +1,59 @@
 ﻿@page "/Filmek"
 @inject FilmekClient Client
+@inject MufajClient MufajClient
 @using System.Linq
 
 @attribute [StreamRendering]
 
 @rendermode InteractiveServer
 @inject NavigationManager nav
-<PageTitle>Filmek Catalog</PageTitle>
+<PageTitle>FilmKatalógus</PageTitle>
+<style>
+    body{
+    background-image: url('d.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    .table {
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+    border: 2px solid #fff;
+    border-collapse: collapse;
+}
 
+/* fejléc */
+.table thead th {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    border: 2px solid white;
+    padding: 10px;
+}
+
+/* sorok */
+.table tbody td {
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+    border: 2px solid white;
+    padding: 10px;
+}
+
+/* hover effekt (nagyon dob rajta) */
+.table tbody tr:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* opcionális: zebra */
+.table tbody tr:nth-child(even) td {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+</style>
 <div class="mt-2">
-        <button class="btn btn-primary" @onclick='() => nav.NavigateTo("/editfilm")'>New Film</button>
+        <button class="btn btn-primary" @onclick='() => nav.NavigateTo("/editfilm")'>Új Film hozzáadása</button>
 </div>
 
-@if(filmek is null)
+@if(filmek is null || mufajok is null)
 {
-    <p><em>Loading...</em></p>
+    <p><em>Betöltés...</em></p>
 }
 else
 {
@@ -22,12 +61,12 @@ else
         <thead class="table-dark">
             <th>Id</th>
             <th>Cim</th>    
-            <th>Mufaj</th>
+            <th>Műfaj</th>
             <th>Hossz</th>
             <th>Nyelv</th>
-            <th>MegjelenesiDatum</th>
-            <th>imDbErtekeles</th>
-            <th>SajatErtekeles</th>
+            <th>Megjelenési Dátum</th>
+            <th>ImDb Értékelés</th>
+            <th>Saját Értékelés</th>
             <th></th>
         </thead>
         <tbody>
@@ -36,7 +75,15 @@ else
                 <tr>
                     <td>@(index+1)</td>                    
                     <td>@film.Cim</td> 
-                    <td>@film.MufajId</td>             
+                    <td>@foreach (var m in mufajok)
+                        {
+                            if (m.Id == film.MufajId)
+                            {
+                                @m.Name
+                            }
+                        }
+                    
+                        </td>             
                     <td>@film.Hossz.ToString()</td>
                     <td>@film.Nyelv</td>
                     <td>@film.MegjelenesiDatum.ToString()</td>
@@ -47,13 +94,16 @@ else
                             <a class="btn btn-primary me-2" role="button" href="@FilmUrl(film.Id)">
                                 <i class="bi bi-pencil"></i>
                             </a>
+                            <a class="btn btn-primary me-2" role="button" href="@StabUrl(film.Id)">
+                                <i class="bi bi-search"></i>
+                            </a>
                             <!--<button class="btn btn-danger" 
                                     data-bs-toggle="modal" 
                                     data-bs-target="@GetDeleteModalId(film)">
                                 <i class="bi bi-x-lg"></i>
                             </button>-->
                         </div>
-                        <DeleteFilm Film="@film" />
+                        <!-- <DeleteFilm Film="@film" /> -->
                     </td>
                 </tr>
             }
@@ -63,13 +113,16 @@ else
 
 @code {
     private FilmekDetails[]? filmek;
+    private MufajokDetails[]? mufajok;
 
     protected override async Task OnInitializedAsync()
     {
         filmek = await Client.GetFilmekAsync();
+        mufajok = await MufajClient.GetMufajokAsync();
     }
 
     private static string FilmUrl(int id) => $"/editfilm/{id}";
+    private static string StabUrl(int id) => $"/stab/{id}";
 
     /*private string GetDeleteModalId(Film_castDetails film)
     {

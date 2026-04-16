@@ -1,12 +1,16 @@
 {
   "Files": [
     {
-      "Id": "Z:\\GameStoreFrontendMySql\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
+      "Id": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
       "PackagePath": "staticwebassets\\GameStore.Frontend.uyhppeet3o.bundle.scp.css"
     },
     {
-      "Id": "Z:\\GameStoreFrontendMySql\\wwwroot\\app.css",
+      "Id": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\wwwroot\\d.jpg",
+      "PackagePath": "staticwebassets\\d.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GameStore.Frontend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

@@ -3365,11 +3365,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\GameStoreFrontendMySql\\GameStore.Frontend.csproj",
+      "projectUniqueName": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\GameStore.Frontend.csproj",
       "projectName": "GameStore.Frontend",
-      "projectPath": "Z:\\GameStoreFrontendMySql\\GameStore.Frontend.csproj",
+      "projectPath": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\GameStore.Frontend.csproj",
       "packagesPath": "C:\\Users\\bmark07\\.nuget\\packages\\",
-      "outputPath": "Z:\\GameStoreFrontendMySql\\obj\\",
+      "outputPath": "Z:\\FilmKatalógus\\FilmkatalogusFrontend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

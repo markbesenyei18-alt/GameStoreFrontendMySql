@@ -10,7 +10,7 @@ public class FilmekDetails
     public int MufajId {get; set;}
     public TimeOnly Hossz {get; set;}
     public required string Nyelv {get; set;}
-    public DateOnly MegjelenesiDatum {get; set;}
+    public DateOnly MegjelenesiDatum {get; set;} = DateOnly.FromDateTime(DateTime.Now);
     public double ImDbErtekeles {get; set;}
     public double SajatErtekeles {get; set;}
 }    
